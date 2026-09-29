@@ -1,0 +1,9 @@
+{
+  "name": "signal-translator",
+  "description": "Guided application preparation. Walks you through indexing the signals in a job description, maps your background against them to show matches and gaps, helps you find the career arcs your evidence supports, and scaffolds a CV you write yourself.",
+  "version": "0.2.0",
+  "author": {
+    "name": "Enisa Ismaili and Uladzislau Linnik"
+  },
+  "license": "MIT"
+}
